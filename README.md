@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Imtiaz Ahmed Hridoy
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&width=480&lines=Full+Stack+Developer;Passionate+Coder+and+Problem+Solver;Growing+Tech+Enthusiast;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&width=480&lines=Full+Stack+Developer;Passionate+Coder+and+Problem+Solver;Growing+Tech+Enthusiast;Always+Learning%2C+Always+Growing;)](https://git.io/typing-svg)
 
 🚀 **Full Stack Developer** | **Network Support Engineer** | **AI Integration Specialist**
 
